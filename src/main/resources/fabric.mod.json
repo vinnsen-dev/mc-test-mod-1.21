@@ -8,8 +8,8 @@
 		"Me!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/vinnsen-dev/mc-test-mod-1.21",
+		"sources": "https://github.com/vinnsen-dev/mc-test-mod-1.21"
 	},
 	"license": "MIT",
 	"icon": "assets/tutorialmod/icon.png",
